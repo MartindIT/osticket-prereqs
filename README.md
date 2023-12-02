@@ -63,4 +63,26 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/78987396-a829-4961-a159-c22609077bb2)
 
+![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/5c14957d-5a17-4568-8226-080308604597)
+
+![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/54950ca6-00b9-4458-b199-245bac314a45)
+
+![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/99cbca1a-df67-48a2-be57-3a0f499cf581)
+
+![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/9308c52a-3664-4a44-876b-da1c5531f705)
+
+![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/ee63c56b-040d-4688-84bd-2b664e3ded0d)
+
+![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/91787e4e-b231-4e73-8b93-acd33acf37d8)
+
+![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/d444a42e-2c82-4b51-9692-09d9caab03ce)
+
+![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/382f8b7d-4025-48b1-b5ff-1679df4dc92f)
+
+![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/485f3f60-65f9-49e4-8643-66b2404f4069)
+
+![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/a68e3b84-4fea-459a-8dce-5a254c81a58f)
+
+![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/0fa594bf-572e-4dda-9f61-6f83b4a7c6cd)
+
 <br />
