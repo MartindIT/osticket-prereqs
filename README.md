@@ -23,20 +23,29 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/58c172ec-7442-4db9-be0b-55eb71f97d1d)
-**Before we install anything onto our device we will first make a resource group using Microsoft Azure in order to make a Virtual machine from there we will continue**
+**1.) Before we install anything onto our device we will first make a resource group using Microsoft Azure in order to make a Virtual machine from there we will continue.**
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/f12c0bb1-10d0-4ad1-b73d-1e26ba5c2b67)
-after the resource group is created we will then create a VM 
+**2.) After the resource group is created we will then create a VM.**
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/e6394ad5-e700-434e-ad8a-5bda40a775e7)
-
+**3.) Once we get to this screen after hitting create a VM you will the put the resource group you have created in, then you will pick Windows 10 as your Virtual Machine.**
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/5812b167-c57e-4709-b480-c41bf6d91d0f)
+**4.) Then scroll down and enter any username and passowrd (make sure you remeber/write it down) after that hit review and create.**
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/60c80616-e67a-4b95-9872-3f9bc48ae38d)
-
+**5.) Once your VM is done creating click on it and look for the public IP address and copy it and paste it into remote desktop and connect.**
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/1f7633a7-ef4c-43c7-80d3-e8d121e86518)
+![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/e1af81fc-2596-4cee-9e5b-3ed020e53b8a)
+![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/6c0e6068-5f69-4ff1-b70e-832eb7731612)
+![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/37e20963-032a-4304-b53d-0a25c9281cb3)
+
+
+
+**6.) Once we are into our VM we have to Install/Enable IIS with windows CGI, first you will have to go to Control Pannel and click on Programs, Turn Windows Feat. on or off, then go through the list and look for Internet Information Services box and check and expand the box -> then go to World Wide Web Services, you then have to expand the World Wide Web Services -> then go to App Dev Features and expand it from their check the CGI box, then collapse App Dev -> then go to common HTTP Feat -> then make sure all boxes are checked. Then hit ok and it will install IIS.**
+
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/9ffd0956-eb81-4dde-9649-fac00c97fd2e)
 
 <p>
