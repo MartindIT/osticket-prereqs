@@ -66,11 +66,23 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 **11.) Next we will download Microsoft C++ Redistributable pretty simple just open it and hit agree and install.**
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/36a966c2-b856-43f7-9a94-72386fa2ec91)
+
+![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/0cc06ed0-25c3-4504-9345-716f5b01eff5)
+
+![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/4b521a2d-04f1-42c7-a1a0-9146673fcc73)
+
+![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/e872087f-ec17-4474-a127-878940d88bc3)
+
 **12.) After that we will download MYsql and opening it up and accepting the aggrements -> click typical install -> then install-> Finish. Once the other window pops up click on standard config -> then the username would be root and you can put any password here just remember to save it/write it down -> then click next and finish.** This step just installs a database onto the computer.
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/5e967aa5-6609-48ca-b1d0-360a98b740ce)
 
+![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/fa7e4e02-a319-442f-88ab-ceb6aefb59f2)
+
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/55f975f3-562a-413d-975e-c0437af03805)
+
+![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/abae45d9-8f7f-45ad-a38a-7455c676a1f6)
+
 **13.) Now go on to windows search and type IIS Manager right click IIS to open as Admin, then open PHP Manager -> then click register new PHP version -> then click browse and look for the PHP folder we made with the unzipped version of PHP -> click CGI -> ok -> then restart IIS.**
 
 
