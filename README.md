@@ -23,7 +23,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/58c172ec-7442-4db9-be0b-55eb71f97d1d)
-<h2>**1.) Before we install anything onto our device we will first make a resource group using Microsoft Azure in order to make a Virtual machine from there we will continue.**</h2>
+**1.) Before we install anything onto our device we will first make a resource group using Microsoft Azure in order to make a Virtual machine from there we will continue.**
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/f12c0bb1-10d0-4ad1-b73d-1e26ba5c2b67)
 **2.) After the resource group is created we will then create a VM.**
@@ -55,28 +55,40 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/4b13dc83-59e2-44bc-a406-7afeba6bf556)
 **9.) Same thing with the Rewrite Module, just download it and hit install and finish**
 
-  
+  ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/e3c5a9fb-b70e-46b5-accb-b66edc859b0e)
+
+![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/afd5754b-cbc6-43ee-975f-7b8bd848d56f)
+
   ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/d3bd12d2-9168-4f25-82ea-bdf6abe89ccd)
+  **10.) Then we need to make a new folder for PHP on file explorer by going on this PC -> window (c:) -> and make a new folder by right clicking and rename it to PHP. Then download PHP and go to it through your files and right click on it ,then click extract all and press browse so that we can unzip and extract into our new PHP folder we just created.** 
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/3b359936-142b-4e90-a2c8-7681049632ab)
+**11.) Next we will download Microsoft C++ Redistributable pretty simple just open it and hit agree and install.**
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/36a966c2-b856-43f7-9a94-72386fa2ec91)
+**12.) After that we will download MYsql and opening it up and accepting the aggrements -> click typical install -> then install-> Finish. Once the other window pops up click on standard config -> then the username would be root and you can put any password here just remember to save it/write it down -> then click next and finish.** This step just installs a database onto the computer.
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/5e967aa5-6609-48ca-b1d0-360a98b740ce)
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/55f975f3-562a-413d-975e-c0437af03805)
+**13.) Now go on to windows search and type IIS Manager right click IIS to open as Admin, then open PHP Manager -> then click register new PHP version -> then click browse and look for the PHP folder we made with the unzipped version of PHP -> click CGI -> ok -> then restart IIS.**
+
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/779103b0-1d29-410e-a9af-e9b0c0af7206)
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/c555d2ce-e04e-4def-88dd-7f88dac018b5)
+**14.) Then install OsTicket go to downloads folder and have (2 file explores open) on one window go to window (c:) folder -> inetpub -> wwroot. (then on the other window double click the Osticket file it should bring us to two files one says scripts and the other says upload, just click and drag the upload folder into the other window next rename the upload folder to "osTicket"**
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/8508792b-7b93-4140-b4ba-8241a18765a7)
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/78987396-a829-4961-a159-c22609077bb2)
+**15.) Now restart IIS by hitting restart and then after that go to Sites-> Defualt-> osTicket. then on the right click (Browse 80) and it will Load up Osticket.**
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/5c14957d-5a17-4568-8226-080308604597)
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/54950ca6-00b9-4458-b199-245bac314a45)
+**16.) But before we continue with Osticket, we have to enable a few things, Go back to Sites -> Default -> OsTicket -> PHP Manager -> Enable/Disable Extentions
+and Enable (PHP_imap,dlll, PHP_intl, PHP_opcache) then Refresh Osticket browser and some of the X's should be gone.**
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/99cbca1a-df67-48a2-be57-3a0f499cf581)
 
