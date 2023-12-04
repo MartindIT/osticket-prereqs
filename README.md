@@ -23,7 +23,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/58c172ec-7442-4db9-be0b-55eb71f97d1d)
-**1.) Before we install anything onto our device we will first make a resource group using Microsoft Azure in order to make a Virtual machine from there we will continue.**
+<h2>**1.) Before we install anything onto our device we will first make a resource group using Microsoft Azure in order to make a Virtual machine from there we will continue.**</h2>
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/f12c0bb1-10d0-4ad1-b73d-1e26ba5c2b67)
 **2.) After the resource group is created we will then create a VM.**
