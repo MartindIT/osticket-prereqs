@@ -32,7 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 **3.) Once we get to this screen after hitting create a VM you will the put the resource group you have created in, then you will pick Windows 10 as your Virtual Machine.**
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/5812b167-c57e-4709-b480-c41bf6d91d0f)
-**4.) Then scroll down and enter any username and passowrd (make sure you remeber/write it down) after that hit review and create.**
+**4.) Then scroll down and enter any username and passowrd (make sure you remember/write it down) after that hit review and create.**
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/60c80616-e67a-4b95-9872-3f9bc48ae38d)
 **5.) Once your VM is done creating click on it and look for the public IP address and copy it and paste it into remote desktop and connect.**
@@ -95,17 +95,22 @@ and Enable (PHP_imap,dlll, PHP_intl, PHP_opcache) then Refresh Osticket browser 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/9308c52a-3664-4a44-876b-da1c5531f705)
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/ee63c56b-040d-4688-84bd-2b664e3ded0d)
+**17.) Now go back to file explorer go to wwwroot-> Osticket -> include -> Ost-sampleconfig and rename that folder to "Ost-config" then right click the folder -> click properties -> Security -> Advanced -> Disable inhertance -> remove all permissions -> Add -> Select principal -> type "Everyone" then click checknames -> then give full control and apply.**
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/91787e4e-b231-4e73-8b93-acd33acf37d8)
+**18.) Now we can finish setting up Osticket in the browser just fill out all the information and write/remember the usernames and passwords.** 
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/d444a42e-2c82-4b51-9692-09d9caab03ce)
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/382f8b7d-4025-48b1-b5ff-1679df4dc92f)
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/485f3f60-65f9-49e4-8643-66b2404f4069)
+**19.) We have to install Hiedi database just download it and accept and launch Hiedi, then proceed and click +new -> user: root and the password will be whatever you put for step number 12. then open -> right click unnamed -> create new-> database -> name it Osticket and now Osticket will be on this sever database and we can now fill out the rest of the Osticket browser.**
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/a68e3b84-4fea-459a-8dce-5a254c81a58f)
+**20.) Then we can finally clean up and go back to file explorer-> my PC -> windows (c:) -> inetpub -> wwwroot -> Osticket -> right click setup folder and delete that folder -> then go to include folder -> ost-config.php (right click) -> properties -> security -> Advance -> everyone -> uncheck modify, full contorl, and write. Hit ok and apply.**  
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/0fa594bf-572e-4dda-9f61-6f83b4a7c6cd)
+**21.) FINALLY we can log in and use Osticket just log in using the credentials you provided and you can now freely roam around and use Osticket.**
 
 <br />
