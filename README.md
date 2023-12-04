@@ -91,6 +91,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/c555d2ce-e04e-4def-88dd-7f88dac018b5)
 **14.) Then install OsTicket go to downloads folder and have (2 file explores open) on one window go to window (c:) folder -> inetpub -> wwroot. (then on the other window double click the Osticket file it should bring us to two files one says scripts and the other says upload, just click and drag the upload folder into the other window next rename the upload folder to "osTicket"**
 
+![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/0a1cea92-2857-4b64-adab-9677a3c83e93)
+
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/8508792b-7b93-4140-b4ba-8241a18765a7)
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/78987396-a829-4961-a159-c22609077bb2)
@@ -104,7 +106,13 @@ and Enable (PHP_imap,dlll, PHP_intl, PHP_opcache) then Refresh Osticket browser 
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/99cbca1a-df67-48a2-be57-3a0f499cf581)
 
+![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/01e431ec-eb14-4780-8c4a-26567ca01ea6)
+
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/9308c52a-3664-4a44-876b-da1c5531f705)
+
+![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/42546a4e-af94-4015-8de0-b7b2cd973ccb)
+
+![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/949300f3-133d-448d-b3f4-247f2868d069)
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/ee63c56b-040d-4688-84bd-2b664e3ded0d)
 **17.) Now go back to file explorer go to wwwroot-> Osticket -> include -> Ost-sampleconfig and rename that folder to "Ost-config" then right click the folder -> click properties -> Security -> Advanced -> Disable inhertance -> remove all permissions -> Add -> Select principal -> type "Everyone" then click checknames -> then give full control and apply.**
