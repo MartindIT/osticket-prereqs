@@ -47,24 +47,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 **6.) Once we are into our VM we have to Install/Enable IIS with windows CGI, first you will have to go to Control Pannel and click on Programs, Turn Windows Feat. on or off, then go through the list and look for Internet Information Services box and check and expand the box -> then go to World Wide Web Services, you then have to expand the World Wide Web Services -> then go to App Dev Features and expand it from their check the CGI box, then collapse App Dev -> then go to common HTTP Feat -> then make sure all boxes are checked. Then hit ok and it will install IIS.**
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/9ffd0956-eb81-4dde-9649-fac00c97fd2e)
-
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+**7.) To insure you Enabled/installed IIS go to any browser and type "127.0.0.1" and if this pops up you would now have this step completed.**
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/bff95587-8714-46ed-aa73-4dc409bfb4ed)
-
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
+**8.) Next we will download PHP Manager for IIS, after you've downloaded PHP Manager click on through your files and hit agree and finish the install.** 
 
 ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/4b13dc83-59e2-44bc-a406-7afeba6bf556)
+**9.) Same thing with the Rewrite Module, just download it and hit install and finish**
 
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
   
   ![image](https://github.com/MartindIT/osticket-prereqs/assets/151476834/d3bd12d2-9168-4f25-82ea-bdf6abe89ccd)
 
